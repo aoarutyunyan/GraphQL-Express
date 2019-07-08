@@ -14,7 +14,7 @@ npm run dev
 
 ```
 {
-	google: company(id: "2") {
+  google: company(id: "2") {
     ...companyDetails
     users {
       ...userDetails
